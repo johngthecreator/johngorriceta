@@ -1,4 +1,4 @@
-baseURL = 'http://johngorriceta.com/'
+baseURL = 'https://johngorriceta.com/'
 languageCode = 'en-us'
 title = 'John Gorriceta'
 theme = 'hyde'
