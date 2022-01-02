@@ -1,4 +1,4 @@
-baseURL = 'https://serene-franklin-5ef615.netlify.app'
+baseURL = 'https://serene-franklin-5ef615.netlify.app/'
 languageCode = 'en-us'
 title = 'John Gorriceta'
 theme = 'hyde'
