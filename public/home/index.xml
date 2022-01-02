@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on John Gorriceta</title>
-    <link>https://serene-franklin-5ef615.netlify.app/home/</link>
+    <link>http://johngorriceta.com/home/</link>
     <description>Recent content in Homes on John Gorriceta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Dec 2021 15:36:07 -0700</lastBuildDate><atom:link href="https://serene-franklin-5ef615.netlify.app/home/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Dec 2021 15:36:07 -0700</lastBuildDate><atom:link href="http://johngorriceta.com/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Programming Goals</title>
-      <link>https://serene-franklin-5ef615.netlify.app/home/goals/</link>
+      <link>http://johngorriceta.com/home/goals/</link>
       <pubDate>Fri, 31 Dec 2021 15:36:07 -0700</pubDate>
       
-      <guid>https://serene-franklin-5ef615.netlify.app/home/goals/</guid>
+      <guid>http://johngorriceta.com/home/goals/</guid>
       <description>2022 Technologies I want to learn:
  React.js Svelte Node.js Express.js  </description>
     </item>
     
     <item>
       <title>Passion Projects</title>
-      <link>https://serene-franklin-5ef615.netlify.app/home/projects/</link>
+      <link>http://johngorriceta.com/home/projects/</link>
       <pubDate>Fri, 31 Dec 2021 15:35:16 -0700</pubDate>
       
-      <guid>https://serene-franklin-5ef615.netlify.app/home/projects/</guid>
+      <guid>http://johngorriceta.com/home/projects/</guid>
       <description>Project Based Learning I believe that the best way to solidify programming concepts is by applying learned concepts in personal projects. These projects are a representation of the programming concepts I&amp;rsquo;ve learned and how I&amp;rsquo;ve applied and connected them together.
 Projects: </description>
     </item>
     
     <item>
       <title>Programming Experience</title>
-      <link>https://serene-franklin-5ef615.netlify.app/home/languages/</link>
+      <link>http://johngorriceta.com/home/languages/</link>
       <pubDate>Thu, 30 Dec 2021 17:36:00 -0700</pubDate>
       
-      <guid>https://serene-franklin-5ef615.netlify.app/home/languages/</guid>
+      <guid>http://johngorriceta.com/home/languages/</guid>
       <description>Python:
  First programming language learned Solid understanding of the basics Proficient in reading and understanding python code Able to implement APIs in code Frameworks:  Flask: Used to create simple backend servers for web applications Django: More complex and structured framework used for creating backend frameworks    Javascript:
  Competent understanding of the basics Able to read and understand function and structure of Javascript code Able to implement APIs into code  Other Languages/Frameworks: HTML:</description>
