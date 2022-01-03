@@ -2,23 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://johngorriceta.com/home/</loc>
+    <loc>https://johngorriceta.com/</loc>
+    <lastmod>2022-01-02T17:11:18-07:00</lastmod>
+  </url><url>
+    <loc>https://johngorriceta.com/goals/</loc>
     <lastmod>2021-12-31T15:36:07-07:00</lastmod>
   </url><url>
-    <loc>http://johngorriceta.com/</loc>
-    <lastmod>2021-12-31T15:36:07-07:00</lastmod>
-  </url><url>
-    <loc>http://johngorriceta.com/home/goals/</loc>
-    <lastmod>2021-12-31T15:36:07-07:00</lastmod>
-  </url><url>
-    <loc>http://johngorriceta.com/home/projects/</loc>
+    <loc>https://johngorriceta.com/projects/</loc>
     <lastmod>2021-12-31T15:35:16-07:00</lastmod>
   </url><url>
-    <loc>http://johngorriceta.com/home/languages/</loc>
+    <loc>https://johngorriceta.com/languages/</loc>
     <lastmod>2021-12-30T17:36:00-07:00</lastmod>
   </url><url>
-    <loc>http://johngorriceta.com/categories/</loc>
+    <loc>https://johngorriceta.com/categories/</loc>
   </url><url>
-    <loc>http://johngorriceta.com/tags/</loc>
+    <loc>https://johngorriceta.com/tags/</loc>
   </url>
 </urlset>

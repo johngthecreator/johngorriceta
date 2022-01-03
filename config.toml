@@ -4,3 +4,4 @@ title = 'John Gorriceta'
 theme = 'hyde'
 [params]
     themeColor = 'theme-base-0d'
+    css = ['static/css/extra.css']

@@ -2,14 +2,12 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a>
-      <p class="lead">
-      I'm an aspiring programmer developing web applications that simplify tedious tasks and change lives.
-      </p>
+      <img src="{{ .Site.BaseURL }}img/john.jpg">
     </div>
 
     <nav>
       <ul class="sidebar-nav">
-        <li><a href="{{ .Site.BaseURL }}">Home</a> </li>
+        <!-- <li><a href="{{ .Site.BaseURL }}">About Me</a> </li> -->
         {{ range .Site.Menus.main -}}
           <li><a href="{{.URL}}"> {{ .Name }} </a></li>
         {{- end }}

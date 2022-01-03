@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on John Gorriceta</title>
-    <link>http://johngorriceta.com/tags/</link>
+    <link>https://johngorriceta.com/tags/</link>
     <description>Recent content in Tags on John Gorriceta</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://johngorriceta.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://johngorriceta.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
