@@ -8,3 +8,6 @@ menu: main
 I believe that the best way to solidify programming concepts is by applying learned concepts in personal projects. These projects are a representation of the programming concepts I've learned and how I've applied and connected them together.  
 
 ### Projects:  
+- Vimify: A lightweight Vim-based markdown editor written with Showdown.js, CodeMirror, and Tailwind CSS.
+
+	Link: https://vimifyeditor.netlify.app/

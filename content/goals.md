@@ -7,7 +7,6 @@ menu: main
 ### 2022  
 Technologies I want to learn:  
 - React.js
-- Svelte
-- Node.js
-- Express.js
+- Django
+- Tailwind CSS
 
