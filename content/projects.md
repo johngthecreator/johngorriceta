@@ -5,13 +5,17 @@ draft: false
 menu: main
 ---
 ### Project Based Learning
-I believe that the best way to solidify programming concepts is by applying learned concepts in personal projects. These projects are a representation of the programming concepts I've learned and how I've applied and connected them together.  
+I believe that the best way to solidify programming concepts is by applying learned concepts to personal projects. These projects are a representation of some of the programming concepts I've learned over the course of my programming career.
 
 ### Projects:  
-- Vimify: A lightweight Vim-based markdown editor written with Showdown.js, CodeMirror, and Tailwind CSS.
+- Vimify: A lightweight Vim-based markdown editor written with Showdown.js, CodeMirror, and SASS.
 
 	Link: https://vimifyeditor.netlify.app/
 
-- Vroomie: A React web app to help you learn more about your car. Written with create react app and styled with Tailwind CSS.
+- McCrypto: A React Web Application that provides you with a simple view of the current price of crypto assets. McCrypto is written with React js, TailwindCSS, and Chakra UI.
 
-	Link: https://vroomie.netlify.app/
+	Link: https://mccrypto.netlify.app
+
+- CometNotes: A Svelte Web Application that helps individuals quickly generate a flashcard set to help them get studying even faster. CometNotes is written in Svelte and styled with Plain CSS.
+
+	Link: https://cometnotes.netlify.app

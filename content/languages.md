@@ -4,25 +4,36 @@ date: 2021-12-30T17:36:00-07:00
 draft: false
 menu: main
 ---
-Python:  
-- First programming language learned 
+Python:   
 - Solid understanding of the basics  
 - Proficient in reading and understanding python code 
 - Able to implement APIs in code 
 - Frameworks:
     - Flask: Used to create simple backend servers for web applications
     - Django: More complex and structured framework used for creating backend frameworks  
+    - FastAPI: For faster, production level APIs writting on the ASGI standard
 
-Javascript:  
+JavaScript:  
+- Solid understanding of the basics
+- Proficient in reading and writing JavaScript code.
+- Proficient in reading and understanding the function and structure of JavaScript code
+- Able to implement APIs into code
+
+C#:
 - Competent understanding of the basics
-- Able to read and understand function and structure of Javascript code
-- Able to implement APIs into code  
+
+Java:
+- Competent understanding of the basics
 
 # Other Languages/Frameworks:
 HTML:  
 - Solid understanding of the basics
 - Familiar with most commonly used tags  
 - Frequently use semantic tags to create a more readable code structure    
+
+React JS:
+- Solid understanding of the basics
+- Competent in writing functional components and implementing React Hooks
 
 CSS:  
 - Solid understanding of the basics
